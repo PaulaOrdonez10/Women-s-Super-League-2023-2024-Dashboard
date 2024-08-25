@@ -25,13 +25,19 @@ This dashboard was created to provide a comprehensive view of the Women’s Supe
 **Dashboard Snapshots**
 - **Snapshot 1: Goals and Assists Overview**  
   Visual showing top goal scorers and assist providers in the league.
-https://github.com/user-attachments/assets/1eaead66-777a-4fd9-a514-7a90cedeb876
+
+  
+![](https://github.com/user-attachments/assets/1eaead66-777a-4fd9-a514-7a90cedeb876)
+
 - **Snapshot 2: Team Performance**  
   Visual comparison of team performances across different metrics such as goals, assists, and fouls.
-https://github.com/user-attachments/assets/9f140178-5465-4e0e-aa33-b94fe28684ff
+
+  
+![](https://github.com/user-attachments/assets/9f140178-5465-4e0e-aa33-b94fe28684ff)
+
 - **Snapshot 3: Match Analysis**  
   Detailed breakdown of individual matches, highlighting key moments and outcomes.
-https://github.com/user-attachments/assets/8fba2488-131c-4301-8aa9-b8d47a968272
+![](https://github.com/user-attachments/assets/8fba2488-131c-4301-8aa9-b8d47a968272)
 
 **Conclusion**
 This dashboard offers a dynamic and interactive way to explore the Women's Super League 2023-2024 season. By providing insights into team and player performance, it serves as a valuable tool for anyone interested in the league, from analysts and coaches to fans and sports enthusiasts. The project not only showcases technical skills in data visualization using Power BI but also reflects a deep passion for women's football.
